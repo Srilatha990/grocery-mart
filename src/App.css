@@ -434,12 +434,12 @@
         padding: 2.8rem 2rem;
         margin-top: 0px !important;
     }
-    .hero-sec{
+/*     .hero-sec{
         height: 10vh !important;
     }
     .hero-sec img{
         height: 50vh !important;
-    }
+    } */
 }
 @media (max-width: 767.98px) { 
     .header-sec{
