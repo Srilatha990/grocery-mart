@@ -385,10 +385,10 @@
         margin-top: 18px !important;
     }
    
-    .hero-sec{
+/*     .hero-sec{
         height: 50vh;
         margin-top: 50px;
-    }
+    } */
     .s h4{
         font-size: 18px;
     }
@@ -435,7 +435,7 @@
         margin-top: 40px !important;
     }
     .hero-sec{
-        height: 10vh !important;
+        height: 20vh !important;
     }
     .hero-sec img{
         height: 30vh !important;
