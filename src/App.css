@@ -434,9 +434,9 @@
         padding: 2.8rem 2rem;
         margin-top: 0px !important;
     }
-/*     .hero-sec{
-        height: 10vh !important;
-    } */
+    .hero-sec{
+        height: 30vh !important;
+    }
     .hero-sec img{
         height: 30vh !important;
     }
