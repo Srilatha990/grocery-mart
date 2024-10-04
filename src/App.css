@@ -436,10 +436,10 @@
     }
 /*     .hero-sec{
         height: 10vh !important;
-    }
-    .hero-sec img{
-        height: 50vh !important;
     } */
+    .hero-sec img{
+        height: 30vh !important;
+    }
 }
 @media (max-width: 767.98px) { 
     .header-sec{
